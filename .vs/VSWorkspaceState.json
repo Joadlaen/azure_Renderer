@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CMake",
+    "\\External",
+    "\\External\\glfw",
+    "\\External\\glfw\\include",
+    "\\External\\glfw\\include\\GLFW",
+    "\\glfw",
+    "\\include",
+    "\\src"
+  ],
+  "SelectedNode": "\\External\\glfw",
+  "PreviewInSolutionExplorer": false
+}
